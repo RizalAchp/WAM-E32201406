@@ -13,9 +13,9 @@
         android:background="@color/teal_200" />
     <Button
         android:text="tombol"
-        android:layout_width="500px"
-        android:layout_height="150px"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
         android:layout_gravity="center"
-        android:background="@color/teal_700"
+        android:background="#fff"
         android:textSize="20sp" />
 </FrameLayout>
