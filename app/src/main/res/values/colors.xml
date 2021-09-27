@@ -7,9 +7,17 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFF3F3F3</color>
+    <color name="button1">#FFFFE66D</color>
+    <color name="button2">#FF4ECDC4</color>
+    <color name="button3">#FFBB86FC</color>
+    <color name="button4">#FFFF6B6B</color>
+    <color name="button5">#FFFFE66D</color>
+    <color name="button6">#FF03DAC5</color>
+    <color name="button7">#FFBB86FC</color>
+    <color name="button8">#FFFF6B6B</color>
 
-    <!-- my material design -->
-    <color name="colorPrimary">#F50057</color>
-    <color name="colorPrimaryDark">#C51162</color>
-    <color name="colorAccent">#FF80AB</color>
+    <!-- my new design -->
+    <color name="colorPrimary">#FFE84A5f</color>
+    <color name="colorPrimaryDark">#FF2A363B</color>
+    <color name="colorAccent">#FFFF847C</color>
 </resources>

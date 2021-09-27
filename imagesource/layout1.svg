@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 164" width="152" height="164">
+	<title>111039-layout-icons</title>
+	<defs>
+		<image  width="164" height="148" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKQAAACUCAMAAAAqEXLeAAAAAXNSR0IB2cksfwAAAEtQTFRF////////AAAAeHh4r6+viIiId3d3np6e6urqwMDAyMjIHx8fR0dH19fXh4eHl5eX8fHx7+/v9PT0/f39+Pj4SUlJLy8vampq39/fW9CeWwAAABl0Uk5T/wD///////9Q/////////wAAAAAA/////6TEhnEAAAEJSURBVHic7dzBTsJAFIbRsS2gIiio1fd/UldjCOS6MJeWKedbtv/i7CZp05ZSysONVk6bGxMFmRVkVpBZQWb1J7KbOUhISMiu64eJ6/+BHM6vX7sBMinIrCCzug/kah20qYvHaLF+qpPni1urVOQ2OsNe6mIXLbp9nbxe3NpCQkJCQkJCQkJCQkJCQkI2gnw7BB3r4j1aHD6mQqYECQkJuWDk5xj0VRff0WL8fWLtWISEhISEhISEhISEhISEbBfZxMOBlCAhISEXjGzitV0TxyIkJCQkJCQkJCQkJCQkJOT1kE18Oj1FkFlBZgWZ1WKRTfzUaLYgISHvGnkrQWYFmRVkVpBZtYX8ARVVpwvTu/tqAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer 1 copy 3" href="#img1" x="-3" y="0" />
+</svg>

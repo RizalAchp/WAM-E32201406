@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 164" width="152" height="164">
+	<title>111039-layout-icons</title>
+	<defs>
+		<image  width="194" height="182" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAC2BAMAAAB5fE/VAAAAAXNSR0IB2cksfwAAACpQTFRF////////AAAAeHh4r6+vt7e3d3d39/f3kZGR7+/vLy8v/v7+8vLyVlZWTjbxZAAAAA50Uk5T/wD//////wD/AP8AAP8gwvvAAAAA6UlEQVR4nO3asW3CQBiGYVaggoBpkogBMgJihgwQKelTpkxLlwpR0iE6RmAENsql+0v77LOU43nLr3mqO1nWTSaSJFXedMAIBEJL4bFnBMKowtM2s5e2wnPuQdsQCJUKrx+hzzTM4/Cdhlkc3rsLb/Eq+EnDIg7HNDzEYU0gEAgEAoFAGFr4OoQuaWjicE3DMg777kJOBEKtwu4c+jtgqzjc0tDE4dRdqOFeIhAIBAKBQCgplP8iy4lAqFUo/9ehhnuJQCAQCAQC4X8L5V8X5UQgVCiUf0HbKwJhPGGQCAQCgUAgEAh3JvwCTc1xPIIubfsAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background copy 3" href="#img1" x="-16" y="-18" />
+</svg>

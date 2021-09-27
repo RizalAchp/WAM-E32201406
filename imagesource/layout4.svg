@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 164" width="152" height="164">
+	<title>111039-layout-icons</title>
+	<defs>
+		<image  width="144" height="156" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACcBAMAAABiqj/wAAAAAXNSR0IB2cksfwAAABVQTFRF////////AAAADw8PPz8/Nzc3b29vQXmKPQAAAAd0Uk5T/wD//////9ONRwcAAAB0SURBVHic7dUxDYBADIbRWsACoAAJ5CxgAf8SCAsDE2kZ7pL3CXhT/zTibqoXIBDoEzQXA40OLS3Z9oLW7DHuIBAIBAKBQCAQCAQCgUAgEAgE6g4qBRoaOoo9UDUQqE/oLNbx+kEgEAgEykO/fVoQCATKdQEY3bzlb8GfQwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer 1 copy 5" href="#img1" x="-10" y="0" />
+</svg>
