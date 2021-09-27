@@ -1,9 +1,12 @@
 package com.example.workshopactivity;
 
-import android.support.v7.app.AppCompatActivity;
+import android.app.AppComponentFactory;
+import android.app.Application;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class LinearLayout extends AppCompatActivity {
     EditText to,  subject, message;

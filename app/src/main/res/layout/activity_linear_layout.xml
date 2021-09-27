@@ -8,7 +8,6 @@
     android:paddingRight="16dp"
     android:orientation="vertical"
     tools:context=".LinearLayout">
-
     <EditText
         android:id="@+id/to"
         android:layout_width="match_parent"
@@ -27,7 +26,6 @@
         android:gravity="top"
         android:layout_weight="1"
         android:hint="message"/>
-
     <Button
         android:id="@+id/send"
         android:layout_width="122dp"

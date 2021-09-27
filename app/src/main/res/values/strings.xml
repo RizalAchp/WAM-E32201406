@@ -3,4 +3,6 @@
     <string name="login">ini string login</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="text_button">Text Button</string>
 </resources>
